@@ -57,7 +57,7 @@ I'm a high school student at the National Scientific High School of Bobo-Dioulas
 |----------------------|-----------------------------------------------------------------------------|-------------------------------------------|
 | **FasoLab**          | Virtual laboratory and innovation hub based in Ouagadougou, Burkina Faso.   | [fasolab.netlify.app](https://fasolab.netlify.app/) |
 | **Meteorix**         | Modern premium weather dashboard with real-time OpenWeatherMap integration and elegant design. | [meteorix-bf.netlify.app](https://meteorix-bf.netlify.app/) |
-| **Cybersentinel**    | Cybersecurity project focused on protection and awareness (details coming soon). | Coming soon                               |
+| **Cybersentinel**    | Cybersecurity project focused on protection and awareness (details coming soon). | [cybersentinelbf.vercel.app](https://cybersentinelbf.vercel.app)                             |
 | **Aether News**      | AI-powered news platform (details coming soon).                             | Coming soon                               |
 | **Science Club – LSNB** | Active member and contributor to scientific events and workshops.        | -                                         |
 
