@@ -48,6 +48,7 @@ I'm a high school student at the National Scientific High School of Bobo-Dioulas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
@@ -59,6 +60,7 @@ I'm a high school student at the National Scientific High School of Bobo-Dioulas
 | **Meteorix**         | Modern premium weather dashboard with real-time OpenWeatherMap integration and elegant design. | [meteorix-bf.netlify.app](https://meteorix-bf.netlify.app/) |
 | **Cybersentinel**    | Cybersecurity project focused on protection and awareness (details coming soon). | [cybersentinelbf.vercel.app](https://cybersentinelbf.vercel.app)                             |
 | **Aether News**      | AI-powered news platform (details coming soon).                             | Coming soon                               |
+| **Anon0x**           | Forum anonyme en ligne pour partager tout sur la tech et l'informatique.   | [anon0x.netlify.app](https://anon0x.netlify.app) |
 | **Science Club – LSNB** | Active member and contributor to scientific events and workshops.        | -                                         |
 
 ---
