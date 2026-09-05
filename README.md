@@ -1,100 +1,68 @@
-# Hi, I'm Judicaël Ouedraogo
+# Judicaël Ouedraogo
 
-🎓 Student · LSNB Bobo-Dioulasso | 🛡️ Founder of Cybersentinel, Aether News & Faso Lab | 🚀 Passionate about AI, Cybersecurity & Programming
+**High school student** at LSNB Bobo-Dioulasso · Burkina Faso  
+Building products in **cybersecurity**, **AI**, and **software**.
 
-> **"Building the future of African cybersecurity and AI, one project at a time."** 🌍
+> Building useful tools for African students and a safer digital space — one project at a time.
 
----
-
-## 👤 About Me
-
-I'm a high school student at the National Scientific High School of Bobo-Dioulasso (LSNB) and founder of Cybersentinel, Aether News, and FasoLab. Passionate about cybersecurity, artificial intelligence, and programming, I am constantly building skills, creating projects, and learning new technologies. Focused on security and automation, my goal is to contribute to a safer and smarter digital Africa through innovative solutions. I hold certifications in AI and Cybersecurity and I'm always looking to grow while inspiring the next generation of African tech leaders.
+[Website](https://fasolab.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/judica%C3%ABl-ouedraogo-b8b380381) · [X](https://x.com/JudicalOue3360) · ouedraogojudicael227@gmail.com
 
 ---
 
-## 🔗 Personal Links
+## About
 
-- 🌐 **Website / FasoLab** → [fasolab.netlify.app](https://fasolab.netlify.app/)
-- 🐦 **X (Twitter)** → [x.com/JudicalOue3360](https://x.com/JudicalOue3360)
-- 📷 **Instagram** → [instagram.com/judi90023](https://www.instagram.com/judi90023?igsh=aDg1azN3NDFva3dw)
-- 💼 **LinkedIn** → [linkedin.com/in/judicaël-ouedraogo](https://www.linkedin.com/in/judica%C3%ABl-ouedraogo-b8b380381)
-- ✉️ **Email** → ouedraogojudicael227@gmail.com
-- 📍 **Location** → Ouagadougou, Burkina Faso
+I am a student at the Lycée Scientifique National de Bobo-Dioulasso (LSNB). I design and ship projects around cybersecurity awareness, scientific education, and practical software.
 
----
+Founder of **CyberSentinel**, **Aether News**, and **FasoLab**. I focus on security, automation, and products that can actually be used by students in Burkina Faso.
 
-## 🛠️ Skills
-
-| Skill                              | Level          |
-|------------------------------------|----------------|
-| Leadership & Project Management    | ⭐ Advanced    |
-| Programming                        | 🔧 Intermediate |
-| Microsoft Office (Word, Excel, PowerPoint) | 📊 Intermediate |
-| Cybersecurity                      | 🛡️ Beginner    |
-| Artificial Intelligence            | 🤖 Beginner    |
-| Linux                              | 🐧 Beginner    |
+Currently learning and building with Python, C++, C#, JavaScript, and modern web tools.
 
 ---
 
-## 💻 Languages & Tools
+## Languages
 
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Tools & Environments:**
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+## Tools
 
----
-
-## 🚀 Projects & Achievements
-
-| Project              | Description                                                                 | Link                                      |
-|----------------------|-----------------------------------------------------------------------------|-------------------------------------------|
-| **FasoLab**          | Virtual laboratory and innovation hub based in Ouagadougou, Burkina Faso.   | [fasolab.netlify.app](https://fasolab.netlify.app/) |
-| **Meteorix**         | Modern premium weather dashboard with real-time OpenWeatherMap integration and elegant design. | [meteorix-bf.netlify.app](https://meteorix-bf.netlify.app/) |
-| **Cybersentinel**    | Cybersecurity project focused on protection and awareness (details coming soon). | [cybersentinelbf.vercel.app](https://cybersentinelbf.vercel.app)                             |
-| **Aether News**      | AI-powered news platform (details coming soon).                             | Coming soon                               |
-| **Anon0x**           | Forum anonyme en ligne pour partager tout sur la tech et l'informatique.   | [anon0x.netlify.app](https://anon0x.netlify.app) |
-| **Science Club – LSNB** | Active member and contributor to scientific events and workshops.        | -                                         |
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
 
-## 🏆 Certifications
+## Selected projects
 
-- ✅ **AI & Cybersecurity Beginners** – Free Academy
-- ✅ **IA Fluency for Small Business** – Anthropic
-- ✅ **Certified Cyber Security Foundations** – Hackviser
+| Project | What it is |
+|---|---|
+| **[FasoLab](https://fasolab.netlify.app/)** | Virtual science lab for students in Burkina Faso (physics, chemistry, biology). |
+| **[CyberSentinel](https://cybersentinelbf.vercel.app)** | Cybersecurity learning and awareness platform (courses, quizzes, mobile-ready structure). |
+| **[Meteorix](https://meteorix-bf.netlify.app/)** | Weather dashboard with live OpenWeatherMap data and a modern UI. |
+| **[CipherScan](https://github.com/ouedraogojudicael227-blip/CipherScan)** | Modular TCP port scanner in Python for network reconnaissance practice. |
+| **[KeySafe](https://github.com/ouedraogojudicael227-blip/KeySafe)** | Local password manager in Python — credentials stay on the device. |
+| **[StockFlow](https://github.com/ouedraogojudicael227-blip/StockFlow)** | Inventory system in C++: catalog, sales, auth, roles, dashboard. |
+| **[Aether News](https://github.com/ouedraogojudicael227-blip/aether-news)** | Tech news platform covering AI, security, development, and hardware. |
+| **[Anon0x](https://anon0x.netlify.app)** | Anonymous forum to discuss technology and computing. |
 
 ---
 
-*Building skills • Creating projects • Constantly learning • Focused on security & automation* 🚀
+## Certifications
+
+- AI & Cybersecurity Beginners — Free Academy
+- IA Fluency for Small Business — Anthropic
+- Certified Cyber Security Foundations — Hackviser
 
 ---
 
-**Feel free to connect with me!** Let's build the future of African tech together. 🌍
-
----
-
-
-
-<!--
-**ouedraogojudicael227-blip/ouedraogojudicael227-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to collaboration on education, security, and student-focused products.  
+Ouagadougou, Burkina Faso
