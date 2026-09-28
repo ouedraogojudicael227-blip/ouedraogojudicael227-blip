@@ -60,6 +60,11 @@ Founder of **CyberSentinel**, **Aether News**, and **FasoLab**. Local representa
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-1BA1E2?style=for-the-badge&logoColor=white)
+![Wokwi](https://img.shields.io/badge/Wokwi-FF8C00?style=for-the-badge&logoColor=white)
 
 <br>
 
