@@ -12,7 +12,7 @@ Building products in <b>cybersecurity</b>, <b>AI</b>, and <b>software</b>.
 <br>
 
 <p align="center">
-<a href="https://ouedraogojudicael227-blip.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-39FF88?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+<a href="https://judiportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-39FF88?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
 <a href="https://www.linkedin.com/in/judica%C3%ABl-ouedraogo-b8b380381"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/JudicalOue3360"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://www.instagram.com/judi90023"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
