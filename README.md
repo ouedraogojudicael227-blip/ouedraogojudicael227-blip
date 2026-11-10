@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Judicaël Ouedraogo 👋</h1>
+<h1 align="center">Hi, I'm Cayden 👋</h1>
 
 <p align="center">
 <b>High school student</b> at LSNB Bobo-Dioulasso · Burkina Faso<br>
